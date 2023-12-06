@@ -1,0 +1,13 @@
+.tabela1{
+
+    background-color: blueviolet;
+}
+.simulado{
+    background: linear-gradient(to bottom, blueviolet, rgb(185, 65, 65)
+    ) ;
+    color:white;
+
+}
+.correta{
+    color: brown;
+}

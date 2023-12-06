@@ -1,0 +1,52 @@
+#titulo1{
+    text-align: center;
+
+}
+.conteiner{
+    background-color: rgb(102, 201, 2);
+    text-align: center;
+    size: 25px;
+    
+}
+#nome{
+    text-align: center;
+    size: 25px;
+}
+#nomeUsuario{
+    text-align: center;
+    size: 25px;
+}
+#nascimento{
+    text-align: center;
+    size: 25px;
+}
+#idade{
+    text-align: center;
+    size: 25px;
+}
+#sexo{
+    text-align: center;
+    size: 25px;
+}
+
+#sexualidade{
+    text-align: center;
+    size: 25px;
+}
+
+#endenreço{
+    text-align: center;
+    size: 25px;
+}
+#endereçoUsuario{
+    text-align: center;
+    size: 25px;
+}
+#curso{
+    text-align: center;
+    size: 25px;
+}
+#opçãocurso{
+    text-align: center;
+    size: 25px;
+}

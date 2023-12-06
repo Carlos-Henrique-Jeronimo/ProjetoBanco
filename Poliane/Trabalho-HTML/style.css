@@ -1,0 +1,17 @@
+html{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.currículo{
+    color: brown;
+}
+.container{
+    background: linear-gradient(to bottom, black,white);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    border-radius: 20px;
+}
+

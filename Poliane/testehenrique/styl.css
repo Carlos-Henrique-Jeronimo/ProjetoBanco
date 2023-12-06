@@ -1,0 +1,12 @@
+.botao{
+    display: flex;
+    justify-content: center;
+    place-items: center;
+    height: 100vh;
+    background: #1d2834;
+}
+.btn{
+    width: 200px;
+    height: 50px;
+    font-weight: bold;
+}

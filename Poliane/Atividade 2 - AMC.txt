@@ -1,0 +1,24 @@
+1-Faça um breve resumo, pesquisando na internet,sobre os tipos de memória RAM, quais as diferenças e suas especifidades.
+
+SDRAM: Synchronous Dynamic Random Access Memory, ou Memória Dinâmica de Acesso Aleatório Síncrona em português. É um tipo de memória RAM que sincroniza a sua frequência com a do barramento do sistema, que é o canal de comunicação entre o processador e a memória RAM. Este padrão é a base de funcionamento de praticamente todos os módulos de memória até a atualidade, com evoluções. A SDRAM tem uma frequência máxima de 133 MHz e uma capacidade máxima de 512 MB por módulo.
+
+DDR: Double Data Rate, ou Taxa de Dados Dupla em português. É um tipo de memória RAM que transfere o dobro de dados por ciclo de clock, ou seja, por cada pulso elétrico que sincroniza a sua frequência com a do barramento do sistema. A DDR tem uma frequência máxima de 400 MHz e uma capacidade máxima de 1 GB por módulo.
+
+DDR2: Double Data Rate 2. É um tipo de memória RAM que é uma evolução da DDR, com uma frequência máxima de 266 MHz, 1066 MT/s e uma capacidade máxima de 4 GB por módulo. A DDR2 também tem uma tensão menor do que a DDR, o que reduz o consumo de energia e o aquecimento da memória RAM.
+
+DDR3: Double Data Rate 3. É uma evolução do padrão DDR2, com uma frequência máxima de 1066 MHz, 2133 MT/s e uma capacidade máxima de 16 GB por módulo. A DDR3 também tem uma tensão menor do que a DDR2, o que reduz ainda mais o consumo de energia e o aquecimento da memória RAM.
+
+DDR4: É um tipo de memória RAM que é uma geração superior à DDR3, com uma frequência máxima de 1600 MHz, 3200 MT/s e uma capacidade máxima de 64 GB por módulo. A DDR4 também tem uma tensão menor do que a DDR3, o que reduz ainda mais o consumo de energia e o aquecimento da memória RAM. Além disso, a DDR4 tem a introdução nativa dos recursos CRC (Cyclic Redundancy Check) e checagem de paridade, que verifica e corrige erros na transmissão dos dados.
+
+DDR5: A evolução da DDR4, lançada em 2019, com uma frequência máxima prevista de 4000 MHz, 8000 MT/s e uma capacidade máxima de 128 GB por módulo. A DDR5 também deve ter uma tensão menor do que a DDR4, o que reduz ainda mais o consumo de energia e o aquecimento da memória RAM. Além disso, a DDR5 deve ter um recurso chamado on-die ECC (Error Correction Code), que verifica e corrige erros na memória antes da transmissão dos dados ao processador.
+
+DIFERENÇAS
+Número de pinos: os pinos são os contatos metálicos que conectam o módulo de memória RAM ao slot na placa-mãe. Cada geração tem um número diferente de pinos, o que impede a compatibilidade entre elas e consequentemente evita a conexão errada. A DDR2 tem 240 pinos, a DDR3 tem 240 pinos (mas com um entalhe na placa diferente da DDR2), a DDR4 tem 288 pinos e a DDR5 tem 288 pinos com um entalhe na placa diferente da DDR4.
+
+Frequência: a frequência indica quantos ciclos por segundo a memória RAM pode realizar. Quanto maior a frequência, maior a velocidade da memória RAM. A frequência das gerações varia conforme o padrão JEDEC (Joint Electron Device Engineering Council), que é a entidade responsável por definir as especificações técnicas das memórias RAM. A frequência básica de barramento da DDR2 é 200 MHz (ou PC2-3200), a da DDR3 é 400 MHz (ou PC3-6400), a da DDR4 é 800 MHz (ou PC4-12800) e a da DDR5 deve ser 2000 MHz (ou PC5-32000).
+
+Tensão: a tensão indica a quantidade de energia elétrica necessária para o funcionamento da memória RAM. Quanto menor a tensão, menor o consumo de energia e o aquecimento da memória RAM. A tensão das gerações varia conforme o padrão JEDEC. A tensão padrão da DDR2 é 1,8 V, a da DDR3 é 1,5 V, a da DDR4 é 1,2 V e a da DDR5 é 1,1 V.
+
+Largura de banda: a largura de banda indica a quantidade de dados que a memória RAM pode transferir por segundo. Quanto maior a largura de banda, maior o desempenho da memória RAM. A largura de banda das gerações depende da frequência e do número de bits que são transferidos por ciclo de clock. A largura de banda básica da DDR2 é 3,2 GB/s (ou PC2-3200), a da DDR3 é 6,4 GB/s (ou PC3-6400), a da DDR4 é 12,8 GB/s (ou PC4-12800) e a da DDR5 deve ser 32 GB/s (ou PC5-32000).
+
+Correção de erros: a correção de erros é um recurso que verifica e corrige erros na transmissão dos dados entre a memória RAM e o processador. Os erros podem ser causados por interferências eletromagnéticas, variações de temperatura, defeitos nos chips ou no barramento do sistema. A correção de erros pode aumentar a confiabilidade e a segurança da memória RAM, mas também pode reduzir a sua velocidade. A correção de erros pode ser feita por dois métodos: CRC (Cyclic Redundancy Check) ou ECC (Error Correction Code). O CRC é um método que usa um código extra para verificar se os dados estão corretos, mas não corrige os erros. O ECC é um método que usa um código extra para verificar e corrigir os erros. A DDR4 tem o recurso CRC, enquanto a DDR5 tem o recurso ECC on-die.
